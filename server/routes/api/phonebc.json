@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "name": "iPhone 8Plus",
+    "manufacturer": "Apple",
+    "description": "lorem ipsum dolor sit amet consectetur.",
+    "color": "black",
+    "price": 769,
+    "imageFileName": "phone8plus.jpg",
+    "screen": "4,7 inch IPS",
+    "processor": "A10 Fusion",
+    "ram": 2
+  },
+  {
+    "id": 1,
+    "name": "iPhone 11Pro",
+    "manufacturer": "Apple",
+    "description": "lorem ipsum dolor sit amet consectetur.",
+    "color": "black",
+    "price": 769,
+    "imageFileName": "phone11pro.jpg",
+    "screen": "4,7 inch IPS",
+    "processor": "A10 Fusion",
+    "ram": 2
+  },
+  {
+    "id": 2,
+    "name": "iPhone 12",
+    "manufacturer": "Apple",
+    "description": "lorem ipsum dolor sit amet consectetur.",
+    "color": "black",
+    "price": 769,
+    "imageFileName": "phone12.jpg",
+    "screen": "4,7 inch IPS",
+    "processor": "A10 Fusion",
+    "ram": 2
+  },
+  {
+    "id": 3,
+    "name": "iPhone 12Mini",
+    "manufacturer": "Apple",
+    "description": "lorem ipsum dolor sit amet consectetur.",
+    "color": "black",
+    "price": 769,
+    "imageFileName": "phone12mini.jpg",
+    "screen": "4,7 inch IPS",
+    "processor": "A10 Fusion",
+    "ram": 2
+  },
+  {
+    "id": 4,
+    "name": "iPhone 12Pro",
+    "manufacturer": "Apple",
+    "description": "lorem ipsum dolor sit amet consectetur.",
+    "color": "black",
+    "price": 769,
+    "imageFileName": "phone12pro.jpg",
+    "screen": "4,7 inch IPS",
+    "processor": "A10 Fusion",
+    "ram": 2
+  },
+  {
+    "id": 5,
+    "name": "iPhone X",
+    "manufacturer": "Apple",
+    "description": "lorem ipsum dolor sit amet consectetur.",
+    "color": "black",
+    "price": 769,
+    "imageFileName": "phonex.jpg",
+    "screen": "4,7 inch IPS",
+    "processor": "A10 Fusion",
+    "ram": 2
+  }
+]

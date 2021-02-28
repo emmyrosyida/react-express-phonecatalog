@@ -1,0 +1,25 @@
+{
+  "name": "react-express-phonecatalog",
+  "version": "1.0.0",
+  "description": "Phone Catalog with ReactJS and NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "client-install": "cd client && npm install",
+    "start": "node server.js",
+    "build": "cd client and npm run build",
+    "server": "nodemon server.js",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "author": "Emmy Rosyida",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.14.6"
+  },
+  "dependencies": {
+    "concurrently": "^3.5.1",
+    "cors": "^2.8.5",
+    "express": "^4.16.2",
+    "uuid": "^8.3.2"
+  }
+}

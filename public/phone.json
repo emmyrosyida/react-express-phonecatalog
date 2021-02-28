@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "name": "iPhone 7",
+    "manufacturer": "Apple",
+    "description": "lorem ipsum dolor sit amet consectetur.",
+    "color": "black",
+    "price": 769,
+    "imageFileName": "https://i.picsum.photos/id/577/200/200.jpg?hmac=o426LHIb2MgD4TJnSfBnhpGdOTOdofsp1A7yraIpo-Y",
+    "screen": "4,7 inch IPS",
+    "processor": "A10 Fusion",
+    "ram": 2
+  },
+  {
+    "id": 0,
+    "name": "iPhone 7",
+    "manufacturer": "Apple",
+    "description": "lorem ipsum dolor sit amet consectetur.",
+    "color": "black",
+    "price": 769,
+    "imageFileName": "https://i.picsum.photos/id/577/200/200.jpg?hmac=o426LHIb2MgD4TJnSfBnhpGdOTOdofsp1A7yraIpo-Y",
+    "screen": "4,7 inch IPS",
+    "processor": "A10 Fusion",
+    "ram": 2
+  },
+  {
+    "id": 0,
+    "name": "iPhone 7",
+    "manufacturer": "Apple",
+    "description": "lorem ipsum dolor sit amet consectetur.",
+    "color": "black",
+    "price": 769,
+    "imageFileName": "https://i.picsum.photos/id/577/200/200.jpg?hmac=o426LHIb2MgD4TJnSfBnhpGdOTOdofsp1A7yraIpo-Y",
+    "screen": "4,7 inch IPS",
+    "processor": "A10 Fusion",
+    "ram": 2
+  },
+  {
+    "id": 0,
+    "name": "iPhone 7",
+    "manufacturer": "Apple",
+    "description": "lorem ipsum dolor sit amet consectetur.",
+    "color": "black",
+    "price": 769,
+    "imageFileName": "https://i.picsum.photos/id/577/200/200.jpg?hmac=o426LHIb2MgD4TJnSfBnhpGdOTOdofsp1A7yraIpo-Y",
+    "screen": "4,7 inch IPS",
+    "processor": "A10 Fusion",
+    "ram": 2
+  }
+]
