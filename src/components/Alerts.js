@@ -1,4 +1,4 @@
-import Alert from "react-bootstrap/Alert";
+import Alert from "../../node_modules/react-bootstrap/Alert";
 
 const Alerts = ({ variant, text }) => {
   return (

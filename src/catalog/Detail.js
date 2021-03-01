@@ -9,7 +9,7 @@ import ServiceGet from "../utils/ServiceGet";
 import Breads from "../components/Breads";
 import { LazyLoadImage } from "react-lazy-load-image-component";
 import pic from "../components/phone12.jpg";
-import "react-lazy-load-image-component/src/effects/blur.css";
+import "../../node_modules/react-lazy-load-image-component/src/effects/blur.css";
 
 const Detail = ({ match }) => {
   const location = useLocation();

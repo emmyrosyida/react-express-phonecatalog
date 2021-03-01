@@ -1,4 +1,4 @@
-import Navbar from "react-bootstrap/Navbar";
+import Navbar from "../../node_modules/react-bootstrap/Navbar";
 
 const NAV_CUSTOM = {
   paddingLeft: "1rem",

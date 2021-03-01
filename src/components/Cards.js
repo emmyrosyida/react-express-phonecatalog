@@ -1,7 +1,7 @@
-import Card from "react-bootstrap/Card";
+import Card from "../../node_modules/react-bootstrap/Card";
 import { LazyLoadImage } from "react-lazy-load-image-component";
 import pic from "./phone12.jpg";
-import "react-lazy-load-image-component/src/effects/blur.css";
+import "../../node_modules/react-lazy-load-image-component/src/effects/blur.css";
 
 const Cards = ({ title, url, click }) => {
   const CARD_CUSTOM = { display: "inline-block" };
